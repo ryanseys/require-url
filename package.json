@@ -1,0 +1,16 @@
+{
+  "name": "require-url",
+  "version": "0.0.1",
+  "description": "Require a file from a url",
+  "main": "require-url.js",
+  "dependencies": {
+    "request": "^2.40.0",
+    "tmp": "^0.0.24"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Seys <ryan@ryanseys.com>",
+  "license": "MIT"
+}
